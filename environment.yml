@@ -1,4 +1,4 @@
-name: signage_302
+name: handy_302
 channels:
   - pytorch
   - defaults
@@ -93,4 +93,4 @@ dependencies:
   - zstd=1.5.2=h8574219_0
   - pip:
       - pyqt5-sip==12.11.0
-prefix: /opt/homebrew/Caskroom/miniconda/base/envs/signage_302
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/handy_302
